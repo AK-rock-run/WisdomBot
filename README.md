@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Gradio](https://img.shields.io/badge/Gradio-UI-orange)
+
+![Groq](https://img.shields.io/badge/Groq-LLM-green)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # WisdomBot
 
 WisdomBot is an AI-powered emotional support companion designed to provide warm, compassionate, and non-judgmental conversations for students, professionals, and anyone experiencing stress, anxiety, loneliness, or emotional overwhelm.
@@ -154,6 +162,12 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## Screenshots
+
+### Chat Example
+
+![Chat](assets/chat.png)
 
 ## Future Improvements
 
